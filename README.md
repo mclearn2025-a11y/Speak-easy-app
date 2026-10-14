@@ -1,5 +1,5 @@
 # Speak-easy-app
-SpeakEasy — An advanced, ethical Augmentative and Alternative Communication (AAC) platform featuring a fixed-core, dynamic-fringe architecture and AI-driven contextual prediction. Built to give a voice to nonverbal individuals with uncompromising accessibility.
+SpeakEasy — An advanced, ethical Augmentative and Alternative Communication (AAC) platform featuring a fixed-core, dynamic-fringe architecture and smart word suggestions as you type. Built to give a voice to nonverbal individuals with uncompromising accessibility.
 
 McLearn Media LLC · Brandon, MS · v1.0.0
 
